@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bodyhealth",
+      "sha256_cert_fingerprints":
+        ["A6:68:8C:B5:E7:E6:6F:9F:59:30:BD:93:44:D6:65:9E:44:25:10:6D:6A:C1:A7:C5:8F:C2:36:26:BA:3D:7E:C7"]
+    }
+  }
+]
