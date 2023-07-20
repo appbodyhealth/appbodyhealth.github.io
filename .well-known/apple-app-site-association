@@ -1,0 +1,11 @@
+{ 
+    "applinks": { 
+        "apps": [],
+        "details": [
+            { 
+                "appID": "W58ZSSUUT3.com.bodyhealth",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
