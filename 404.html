@@ -1,12 +1,32 @@
 <!DOCTYPE html>
 <html>
-<head> 
-    <title>404 Not Found</title>
+<head>
+    <title>Button Page</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .center-button {
+            padding: 15px 30px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
     <script>
-        window.location.href = "https://onelink.to/va4jyb";
+        function redirectToOtherPage() {
+            window.location.href = "https://onelink.to/va4jyb";
+        }
     </script>
 </head>
 <body>
-    <p>Перенаправление на другой сайт...</p>
+    <button class="center-button" onclick="redirectToOtherPage()">Нажми меня</button>
 </body>
 </html>
