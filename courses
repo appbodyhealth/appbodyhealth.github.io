@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<head> 
+    <title>404 Not Found</title>
+    <script>
+        window.location.href = "intent:#Intent;scheme=https://appbodyhealth.github.io;package=com.bodyhealth;end";
+    </script>
+</head>
+<body>
+    <p>Перенаправление на другой сайт...</p>
+</body>
+</html>
